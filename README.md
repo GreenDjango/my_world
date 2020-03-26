@@ -38,3 +38,5 @@ All the functions from the CSFML and the math library are allowed. From the libc
 + opendir
 + readdir
 + closedir
+
+group: me and red-gecko27
